@@ -8,7 +8,7 @@ Student and aspirant Developer
 
 *   🌍  I'm based in Italy
 *   ✉️  You can contact me at [d.pezzotti005@studenti.unibs.it](mailto:d.pezzotti005@studenti.unibs.it)
-*   🚀  I'm currently working on [Elaborato Ingegneria del Software](http://github.com/dvdpezzo/Elaborato-Ingegneria-del-software-2023_2024.git)
+*   🚀  I'm currently working on <-!--[Elaborato Ingegneria del Software](http://github.com/dvdpezzo/Elaborato-Ingegneria-del-software-2023_2024.git)>
 *   🧠  I'm learning Java and C
 *   🤝  I'm open to collaborating on interesting projects
   ### Skills 
